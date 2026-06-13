@@ -8,8 +8,6 @@ A Python-based Information Retrieval project that helps users identify misspelle
 
 The **Spell Checker and Suggestion App** is a Python application designed to assist users in verifying the spelling of words and discovering possible correct alternatives.
 
-The application utilizes **N-Grams** and **Ranking Algorithms** to generate, rank, and refine spelling suggestions. Users can further provide ratings and feedback, helping evaluate the quality of generated suggestions.
-
 ---
 
 ## 🚀 Features
@@ -17,7 +15,7 @@ The application utilizes **N-Grams** and **Ranking Algorithms** to generate, ran
 * ✅ Spell checking using a predefined dataset
 * ✅ Generates up to **30 spelling suggestions**
 * ✅ Suggestion refinement based on word patterns
-* ✅ Interactive GUI built using Tkinter
+* ✅ Interactive UI built using Tkinter
 * ✅ User rating system (1–5 stars)
 * ✅ Feedback and remarks collection
 * ✅ Automatic storage of reviews and feedback
